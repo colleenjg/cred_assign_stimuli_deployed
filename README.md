@@ -5,10 +5,10 @@ This repository contains the stimulus scripts used to generate the stimuli for t
 
 The Credit Assignment experiment was conceptualized by [Joel Zylberberg](http://www.jzlab.org/) (York University), [Blake Richards](http://linclab.org/) (McGill University), [Timothy Lillicrap](http://contrastiveconvergence.net/~timothylillicrap/index.php) (DeepMind) and [Yoshua Bengio](https://yoshuabengio.org/) (Mila), and the stimuli were coded by [Colleen Gillon](https://sites.google.com/mila.quebec/linc-lab/team/colleen?authuser=0).
 
-These scripts **have been updated** since [Gillon _et al._, 2021, _bioRxiv_](https://www.biorxiv.org/content/10.1101/2021.01.15.426915v2). For the exact scripts used in the experiments reported in that paper, see the [commit tagged as `production_v1`](https://github.com/colleenjg/cred_assign_stimuli_deployed/tree/production_v1). 
+These scripts **have been updated** since the experiments reported in [Gillon _et al._, 2023](https://doi.org/10.1038/s41597-023-02214-y). For the exact scripts used in the experiments reported in that paper, see the [commit tagged as `production_v1`](https://github.com/colleenjg/cred_assign_stimuli_deployed/tree/production_v1). 
 &nbsp;
 
-**NOTE:** Whereas _this_ repository contains the **exact scripts** deployed for data collection in the OpenScope pipeline, the [`cred_assign_stimuli`](https://github.com/colleenjg/cred_assign_stimuli) repository contains the same base code, but modified to allow users to conveniently visualize, reproduce and save the stimuli used in [Gillon _et al._, 2021, _bioRxiv_](https://www.biorxiv.org/content/10.1101/2021.01.15.426915v2). It also contains a more detailed description of the stimulus design.  
+**NOTE:** Whereas _this_ repository contains the **exact scripts** deployed for data collection in the OpenScope pipeline, the [`cred_assign_stimuli`](https://github.com/colleenjg/cred_assign_stimuli) repository contains the same base code, but modified to allow users to conveniently visualize, reproduce and save the stimuli used in [Gillon _et al._, 2023](https://doi.org/10.1038/s41597-023-02214-y). It also contains a more detailed description of the stimulus design.  
 
 ## Stimulus design
 Sparse Gabor sequences (adapted from [Homann _et al._, 2022, _PNAS_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8812573/))
